@@ -10,5 +10,5 @@ Super simple jekyll plugin that removes file extensions from a string. A new fil
 Add the following to your `Gemfile` and then run `bundle install`.
 
 ```
-gem 'jekyll-curse'
+gem 'jekyll-regex-replace'
 ```
